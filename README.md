@@ -20,22 +20,22 @@ Here are some ideas to get you started:
 I have worked with the following technologies:
 
 <div>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=E8D44D"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/jQuery-0865A7?style=for-the-badge&logo=jquery&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PHP-7377AD?style=for-the-badge&logo=php&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Laravel-D53E26?style=for-the-badge&logo=laravel&logoColor=white" />
-    <img src="https://img.shields.io/badge/Wordpress-21759F?style=for-the-badge&logo=wordpress&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C%23-611D76?style=for-the-badge&logo=csharp&logoColor=white"/>
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-004E68?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SQL Server-21759F?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Git-E84E31?style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-    <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C%20Sharp-512BD4?logo=csharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white"/>
+    <img src="https://img.shields.io/badge/DevExpress-FF7200?logo=devexpress&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Sourcetree-0052CC?logo=sourcetree&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white"/>
   </div>
